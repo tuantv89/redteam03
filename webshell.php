@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>Upload file</title>
+  <title>Upload file & execute command</title>
 </head>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
 <script>
