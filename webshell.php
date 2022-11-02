@@ -42,7 +42,7 @@
         document.getElementById('res').innerHTML = decrypt(res, key);
       }
     };
-    xhttp.open("POST", "http://localhost/redteam03/exec.php", true);
+    xhttp.open("POST", "/redteam03/exec.php", true);
     xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
     xhttp.send(data);
   }
